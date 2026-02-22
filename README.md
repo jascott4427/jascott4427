@@ -26,7 +26,7 @@ I am a senior Mechanical Engineering student at Caltech specializing in the inte
 * **[Game Engine Prototype](https://github.com/jascott4427/rocket-boost-prototype-unity-3d)**: 3d physics based movement game within Unity. I play around with gamedev a ton i my free time and take courses through gemdec.tv to keep getting better.
 * **[Leetcode](https://github.com/jascott4427/Leetcode/tree/main/Problems)**: Solutions and WIP problems for data structure and algorithm challenges.
 
-### Forthcoming & Technical Research Repositories
+### Projects that need certain info redacted for copyright reasons. Will be published soon.
 
 * **[Spacecraft Simulation & Modeling](https://github.com/jascott4427/spacecraft-simulation-and-modeling)**: MATLAB simulations of orbital mechanics, trajectory analysis, and propellant budget estimation.
 * **[CFD & FEA Experiments](https://github.com/jascott4427/cfd-and-fea-experiments-and-modeling)**: ANSYS-based structural analysis of geometric discontinuities and MATLAB-processed airfoil fluid dynamics.

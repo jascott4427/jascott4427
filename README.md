@@ -8,6 +8,7 @@ I am a senior Mechanical Engineering student at Caltech specializing in the inte
 
 ### Robotics & Path Planning
 
+* **[Pacman-robot](https://github.com/jascott4427/pacman-autonomous-raspi-car)**: Autonomous wheeled vehicle equipped with LiDAR, camera, encoders, and IMU capaable of exploring a known map on its own and playing a pacman like game with similar robots.
 * **[Arbiter](https://github.com/jascott4427/Arbiter)**: 3D temporal path planning for autonomous agents. Developed for ME133b, focusing on stealth-based trajectory optimization and adversarial detection avoidance.
 * **[Drake Motion Planning Challenge](https://github.com/jascott4427/Drake-motion-planning-challenge)**: Browser-based robotic arm simulation using RRT, spline interpolation, and path smoothing via the Drake toolbox.
 * **[Grid-Based D* Lite](https://github.com/jascott4427/Grid-Based-D-Lite)**: Implementation of the D* Lite algorithm for real-time replanning in partially unknown environments.

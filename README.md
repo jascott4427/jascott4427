@@ -19,6 +19,7 @@ I am a senior Mechanical Engineering student at Caltech specializing in the inte
 
 * **[EE154a Flight Computer](https://github.com/kenadigwaymire/ee154a)**: Raspberry Pi-based sensor payload for a high-altitude weather balloon. Developed as an integrated flight computer for atmospheric data tracking and error detection with automatic fault correction, with future applications for National Geographic research on the ISS. Currently being tested for use on a weather balloon. 
 * **[NASA BIG Idea Challenge '24 (PILLARS)](https://github.com/jascott4427/PILLARS-LSDyna)**: Structural analysis and LS-DYNA FEA for an inflatable lunar regolith shielding system. Presentation of findings at the Lunar Surface Innovation Consortium (LSIC).
+* **[Ncorr MATLAB 2025 Fix](https://github.com/jascott4427/ncorr_2D_matlab_2025_fix)**: Developed a critical compatibility patch for the open-source Digital Image Correlation (DIC) software, Ncorr. Resolved initialization crashes caused by MATLAB R2025a's transition to a WebGL rendering engine by re-architecting legacy OpenGL hardware queries for modern browser-based rendering pipelines.
 
 ### Computer Science & Graphics
 

@@ -17,12 +17,14 @@ I am a senior Mechanical Engineering student at Caltech specializing in the inte
 
 ### Aerospace & Mechanical Engineering
 
+* **[Ncorr MATLAB 2025 Fix](https://github.com/jascott4427/ncorr_2D_matlab_2025_fix)**: Developed a critical compatibility patch for the open-source Digital Image Correlation (DIC) software, Ncorr. Resolved initialization crashes caused by MATLAB R2025a's transition to a WebGL rendering engine by re-architecting legacy OpenGL hardware queries for modern browser-based rendering pipelines.
 * **[EE154a Flight Computer](https://github.com/kenadigwaymire/ee154a)**: Raspberry Pi-based sensor payload for a high-altitude weather balloon. Developed as an integrated flight computer for atmospheric data tracking and error detection with automatic fault correction, with future applications for National Geographic research on the ISS. Currently being tested for use on a weather balloon. 
 * **[NASA BIG Idea Challenge '24 (PILLARS)](https://github.com/jascott4427/PILLARS-LSDyna)**: Structural analysis and LS-DYNA FEA for an inflatable lunar regolith shielding system. Presentation of findings at the Lunar Surface Innovation Consortium (LSIC).
-* **[Ncorr MATLAB 2025 Fix](https://github.com/jascott4427/ncorr_2D_matlab_2025_fix)**: Developed a critical compatibility patch for the open-source Digital Image Correlation (DIC) software, Ncorr. Resolved initialization crashes caused by MATLAB R2025a's transition to a WebGL rendering engine by re-architecting legacy OpenGL hardware queries for modern browser-based rendering pipelines.
 
 ### Computer Science & Graphics
 
+* **[History-Map](https://jascott4427.github.io/history-map/)**: An interactive geospatial visualization of global history. This project utilizes an asynchronous Python scraper to bridge Wikidata SPARQL queries with the Wikipedia REST API.
+    * **Current Status:** 2000 and 2001 contain high-density verified data. I am currently tweaking the scraper logic to optimize recursive subclass searches and prevent server timeouts to populate the full decade.
 * **[C++ Data Structures & Graphics](https://github.com/jascott4427/data-structures-cpp)**: WIP Implementation of core data structures and OpenGL-based sorting/physics visualizations to formalize C++ fundamentals beyond embedded systems.
 * **[KenadiGPT](https://github.com/jascott4427/kenadigpt)**: Fine-tuned GPT-2 transformer model trained on curated datasets for conversational NLP.
 * **[Game Engine Prototype](https://github.com/jascott4427/rocket-boost-prototype-unity-3d)**: 3d physics based movement game within Unity. I play around with gamedev a ton i my free time and take courses through gemdec.tv to keep getting better.
